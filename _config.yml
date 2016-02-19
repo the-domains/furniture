@@ -1,4 +1,4 @@
-name: furniture
+name: CNC STEP IT
 favicon: null
 layout_spectrum: 0.15570376883260906
 typography_spectrum: 0.65305
@@ -23,7 +23,7 @@ color:
     - '#96a44f'
     - '#c02800'
   brandStrength: 0.5
-  lightness: 0.75
+  lightness: 0.5
   saturation: 0.5167041034437716
   rhythmicContrast: 0.5
 purpose: []
