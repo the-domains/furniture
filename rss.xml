@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CNC-Step iT]]></title>
+        <description><![CDATA[CNC-Step iT]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Feb 2016 11:15:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Products]]></title>
+            <description><![CDATA[<article><h1>Products</h1><p>Innovative design, industrial grade precision, extreme versatility, AND affordability.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02daf9255f790def7ca10a26062cefb7e658c1f9.jpg"></article>]]></description>
+            <link>undefined73c8c9d6-1a90-45cf-aa5f-a08d29a665b3/index.html</link>
+            <guid isPermaLink="false">73c8c9d6-1a90-45cf-aa5f-a08d29a665b3</guid>
+            <pubDate>Fri, 19 Feb 2016 11:15:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
